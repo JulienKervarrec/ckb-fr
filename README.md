@@ -1,3 +1,7 @@
+## Parcours français
+
+Consulter le parcours documentaire francophone consacré à Nervos CKB, son Cell Model et CKB-VM dans [docs/fr](docs/fr/).
+
 # [Nervos CKB](https://www.nervos.org/) - The Common Knowledge Base
 
 [![Version](https://img.shields.io/crates/v/ckb.svg)](https://github.com/nervosnetwork/ckb/releases/latest)
